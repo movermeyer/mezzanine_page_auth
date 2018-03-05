@@ -1,4 +1,4 @@
-.. image:: https://pypip.in/v/mezzanine-page-auth/badge.png
+.. image:: https://img.shields.io/pypi/v/mezzanine-page-auth.svg
    :target: https://crate.io/packages/mezzanine-page-auth/
 
 Created by `Simone Dalla <http://twitter.com/simodalla>`_
